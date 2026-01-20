@@ -1,0 +1,9 @@
+0.7
+2020.2
+Mar  6 2025
+19:11:35
+C:/Users/alext/Desktop/School/ECEN_340/Traffic_Light_Controller/Traffic_Light_Controller.sim/sim_1/behav/xsim/glbl.v,1734094861,verilog,,,,glbl,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Traffic_Light_Controller/Traffic_Light_Controller.srcs/sim_1/new/traffic_light_controller_top_tb.v,1763241398,verilog,,,,traffic_light_controller_top_tb,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Traffic_Light_Controller/Traffic_Light_Controller.srcs/sources_1/new/clk_gen.v,1763242917,verilog,,C:/Users/alext/Desktop/School/ECEN_340/Traffic_Light_Controller/Traffic_Light_Controller.srcs/sources_1/new/timer.v,,clk_gen,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Traffic_Light_Controller/Traffic_Light_Controller.srcs/sources_1/new/timer.v,1763242627,verilog,,C:/Users/alext/Desktop/School/ECEN_340/Traffic_Light_Controller/Traffic_Light_Controller.srcs/sources_1/new/traffic_light_controller_top.v,,timer,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Traffic_Light_Controller/Traffic_Light_Controller.srcs/sources_1/new/traffic_light_controller_top.v,1763238923,verilog,,C:/Users/alext/Desktop/School/ECEN_340/Traffic_Light_Controller/Traffic_Light_Controller.srcs/sim_1/new/traffic_light_controller_top_tb.v,,traffic_light_controller_top,,,,,,,,

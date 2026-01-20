@@ -1,0 +1,14 @@
+0.7
+2020.2
+Mar  6 2025
+19:11:35
+C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.sim/sim_1/behav/xsim/glbl.v,1734094861,verilog,,,,glbl,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sim_1/new/Final_Project_tb.v,1765938474,verilog,,,,Final_Project_tb,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/Final_Project.v,1765766423,verilog,,C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/btn_debounce.v,,Final_Project,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/btn_debounce.v,1765659438,verilog,,C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/clk_gen.v,,btn_debounce,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/clk_gen.v,1765684283,verilog,,C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/debounce_buttons.v,,clk_gen,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/debounce_buttons.v,1765659540,verilog,,C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/debounce_div.v,,debounce_buttons,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/debounce_div.v,1765659446,verilog,,C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/game_logic.v,,debounce_div,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/game_logic.v,1765821736,verilog,,C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/memory.v,,game_logic,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/memory.v,1765662261,verilog,,C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/segdisplay_driver.v,,memory,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sources_1/new/segdisplay_driver.v,1765938431,verilog,,C:/Users/alext/Desktop/School/ECEN_340/Final_Project/Final_Project.srcs/sim_1/new/Final_Project_tb.v,,segdisplay_driver,,,,,,,,

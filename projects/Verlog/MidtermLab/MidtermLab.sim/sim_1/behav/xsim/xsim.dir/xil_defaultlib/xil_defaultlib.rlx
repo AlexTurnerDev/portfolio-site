@@ -1,0 +1,9 @@
+0.7
+2020.2
+Mar  6 2025
+19:11:35
+C:/Users/alext/Desktop/School/ECEN_340/MidtermLab/MidtermLab.sim/sim_1/behav/xsim/glbl.v,1734094861,verilog,,,,glbl,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/MidtermLab/MidtermLab.srcs/sim_1/new/grey_counter_top_tb.v,1762652250,verilog,,,,grey_counter_top_tb,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/MidtermLab/MidtermLab.srcs/sources_1/new/clock_gen.v,1762652605,verilog,,C:/Users/alext/Desktop/School/ECEN_340/MidtermLab/MidtermLab.srcs/sources_1/new/grey_counter.v,,clock_gen,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/MidtermLab/MidtermLab.srcs/sources_1/new/grey_counter.v,1762651415,verilog,,C:/Users/alext/Desktop/School/ECEN_340/MidtermLab/MidtermLab.srcs/sources_1/new/grey_counter_top.v,,grey_counter,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/MidtermLab/MidtermLab.srcs/sources_1/new/grey_counter_top.v,1762614653,verilog,,C:/Users/alext/Desktop/School/ECEN_340/MidtermLab/MidtermLab.srcs/sim_1/new/grey_counter_top_tb.v,,grey_counter_top,,,,,,,,

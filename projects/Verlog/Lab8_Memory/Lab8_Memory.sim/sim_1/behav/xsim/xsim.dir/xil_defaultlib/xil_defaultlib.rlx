@@ -1,0 +1,9 @@
+0.7
+2020.2
+Mar  6 2025
+19:11:35
+C:/Users/alext/Desktop/School/ECEN_340/Lab8_Memory/Lab8_Memory.sim/sim_1/behav/xsim/glbl.v,1734094861,verilog,,,,glbl,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Lab8_Memory/Lab8_Memory.srcs/sim_1/new/memory_tb.v,1763572129,verilog,,,,memory_tb,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Lab8_Memory/Lab8_Memory.srcs/sim_1/new/pipeline_multiplier_tb.v,1764032791,verilog,,,,pipelined_multiplier_tb,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Lab8_Memory/Lab8_Memory.srcs/sources_1/new/memory.v,1763499948,verilog,,C:/Users/alext/Desktop/School/ECEN_340/Lab8_Memory/Lab8_Memory.srcs/sim_1/new/memory_tb.v,,memory,,,,,,,,
+C:/Users/alext/Desktop/School/ECEN_340/Lab8_Memory/Lab8_Memory.srcs/sources_1/new/pipelined_multiplier.v,1764007524,verilog,,C:/Users/alext/Desktop/School/ECEN_340/Lab8_Memory/Lab8_Memory.srcs/sim_1/new/pipeline_multiplier_tb.v,,pipelined_multiplier,,,,,,,,

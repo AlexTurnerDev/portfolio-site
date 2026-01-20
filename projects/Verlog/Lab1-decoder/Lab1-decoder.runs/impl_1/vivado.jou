@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2.2 (64-bit)
+# SW Build 6060944 on Thu Mar 06 19:10:01 MST 2025
+# IP Build 6050500 on Thu Mar  6 23:33:39 MST 2025
+# SharedData Build 6060542 on Thu Mar 06 10:31:07 MST 2025
+# Start of session at: Wed Sep 24 10:22:08 2025
+# Process ID         : 23216
+# Current directory  : C:/Users/alext/Desktop/School/ECEN 340/Lab1-decoder/Lab1-decoder.runs/impl_1
+# Command line       : vivado.exe -log decoder_structural.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source decoder_structural.tcl -notrace
+# Log file           : C:/Users/alext/Desktop/School/ECEN 340/Lab1-decoder/Lab1-decoder.runs/impl_1/decoder_structural.vdi
+# Journal file       : C:/Users/alext/Desktop/School/ECEN 340/Lab1-decoder/Lab1-decoder.runs/impl_1\vivado.jou
+# Running On         : Alex
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i7-1360P
+# CPU Frequency      : 2611 MHz
+# CPU Physical cores : 12
+# CPU Logical cores  : 16
+# Host memory        : 34085 MB
+# Swap memory        : 34359 MB
+# Total Virtual      : 68444 MB
+# Available Virtual  : 51151 MB
+#-----------------------------------------------------------
+source decoder_structural.tcl -notrace

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2.2 (64-bit)
+# SW Build 6060944 on Thu Mar 06 19:10:01 MST 2025
+# IP Build 6050500 on Thu Mar  6 23:33:39 MST 2025
+# SharedData Build 6060542 on Thu Mar 06 10:31:07 MST 2025
+# Start of session at: Mon Oct  6 11:07:56 2025
+# Process ID         : 19880
+# Current directory  : C:/Users/alext/Desktop/School/ECEN 340/7_segment_display/7_segment_display.runs/impl_1
+# Command line       : vivado.exe -log seg7.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source seg7.tcl -notrace
+# Log file           : C:/Users/alext/Desktop/School/ECEN 340/7_segment_display/7_segment_display.runs/impl_1/seg7.vdi
+# Journal file       : C:/Users/alext/Desktop/School/ECEN 340/7_segment_display/7_segment_display.runs/impl_1\vivado.jou
+# Running On         : Alex
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i7-1360P
+# CPU Frequency      : 2611 MHz
+# CPU Physical cores : 12
+# CPU Logical cores  : 16
+# Host memory        : 34085 MB
+# Swap memory        : 34359 MB
+# Total Virtual      : 68444 MB
+# Available Virtual  : 42517 MB
+#-----------------------------------------------------------
+source seg7.tcl -notrace
