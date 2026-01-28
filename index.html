@@ -344,10 +344,12 @@
             {
                 id: 'ai-assistant',
                 category: 'system', // or 'ai'
-                title: 'AI Personal Assistant',
-                shortDesc: 'STM32-based assistant controlled via Telegram and n8n.',
-                longDesc: 'A custom IoT system that allows users to control home electronics and display images using a Telegram bot. I engineered an n8n workflow to interpret text, audio, and image commands, which are routed through a Python script to a Nucleo-L476RG board via UART. The firmware utilizes DMA and SPI to efficiently render images on an ST7735 display while handling real-time interrupts for lighting control',
-
+                title: 'IoT Home Control System',
+                shortDesc: 'Remote control system that connects a Telegram bot to STM32 hardware using n8n and Python.',
+                longDesc: `Created a system to control physical hardware (lights and displays) from a phone app, overcoming the difficulty of connecting cloud apps to local devices.
+  • The Bridge: Wrote a Python script that acts as a translator, taking JSON commands from n8n and converting them into Serial/UART data for the microcontroller.
+  • Efficient Graphics: Used DMA (Direct Memory Access) on the STM32 board to draw images on the screen in the background, so the processor stays free to handle light switches instantly.
+  • Multi-Input: Designed the system to accept text, voice, and image commands, converting them all into specific hardware actions.`
                 // HERE IS YOUR IMAGE AND TWO VIDEOS
                 gallery: [
                     { type: 'image', src: 'assets/images/AI_assistant_n8n.png' },
@@ -359,6 +361,38 @@
                 links: [
                     { label: 'Download Report', url: 'assets/docs/260 Final_Project (1).pdf', icon: 'fas fa-file-pdf' }
                 ]
+            },
+            {
+                id: 'ai-chatbott',
+                category: 'system', // or 'ai'
+                title: 'Website Lead Capture Widget',
+                shortDesc: 'Custom chat widget integrated into GoHighLevel websites that instantly learns from business data to capture leads.',
+                longDesc: `Developed a chat widget designed to capture website visitors before they leave the page.
+  • Fast Deployment: Built a web-scraping workflow that scans a client's website and builds a custom Knowledge Base in just a few minutes.
+  • Smart Integration: Integrated the frontend with GoHighLevel to keep maintenance low, while using custom backend logic to handle the complex AI responses.
+  • Lead Priority: Set up the conversation flow to prioritize getting the customer's name and number immediately, sending that data to the CRM even if the chat ends early.`
+
+                // HERE IS YOUR IMAGE AND TWO VIDEOS
+                gallery: [
+                    { type: 'image', src: 'assets/images/AI_WebsitecChatBot_ChatWidget.png' },
+                    { type: 'video', src: 'assets/videos/AI_WebsitecChatBot_Demo.mp4' },
+                ],
+            },
+            {
+                id: 'ai-textingbot',
+                category: 'system', // or 'ai'
+                title: 'AI Customer Service Agent',
+                shortDesc: 'Automated SMS agent built with n8n and Supabase that handles scheduling and FAQs with a human hand-off safety net.',
+                longDesc: `Built a text-messaging bot for local service businesses that feels natural and prevents common AI errors.
+  • Context Retention: Connected the bot to a Supabase database so it remembers customer details (like name and service type) across different conversations.
+  • Natural Timing: Created a custom "typing delay" system that calculates how long to wait based on message length, so the bot doesn't reply instantly like a robot.
+  • Safety Guardrails: Designed a fallback system that automatically alerts a human supervisor if the AI is unsure of an answer, preventing "hallucinations" or wrong quotes.`
+
+                // HERE IS YOUR IMAGE AND TWO VIDEOS
+                gallery: [
+                    { type: 'image', src: 'assets/images/AI_TextingBot_n8n.png' },
+                    { type: 'video', src: 'assets/videos/AI_TextingBot_Demo.mp4' },
+                ],
             },
         ]; 
 
